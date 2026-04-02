@@ -1,4 +1,4 @@
-// imagens e sons do jogo
+
 
 let imagemDaEstrada;
 let imagemDoAtor;
@@ -6,7 +6,7 @@ let imagemCarro;
 let imagemCarro2;
 let imagemCarro3;
 
-//sons do jogo
+
 
 let somDaTrilha;
 let somDaColisao;
